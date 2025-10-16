@@ -50,3 +50,7 @@ menu:
 taxonomies:
   category: "categories"
   tag: "tags"
+
+caches:
+  images:
+    dir: :cacheDir/images
