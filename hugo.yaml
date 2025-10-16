@@ -1,0 +1,52 @@
+baseURL: "https://blog.ssh.org.ua/"
+languageCode: "uk"
+defaultContentLanguage: "uk"
+title: "Підвал Синьої Бороди"
+theme: "re-terminal"
+
+params:
+  contentTypeName: "posts"
+  themeColor: "green"
+  showMenuItems: 2
+  showLastUpdated: true
+  readingTime: true
+  Toc: true
+  TocTitle: "Зміст"
+  twitter:
+    creator: "bluebeard68k"
+    site: "bluebeard68k"
+
+languages:
+  uk:
+    params:
+      languageName: "Ukrainian"
+      title: "blog.ssh.org.ua"
+      subtitle: "A simple, retro theme for Hugo"
+      owner: "Синя Борода"
+      keywords: ""
+      copyright: "© 2025 Підвал Синьої Бороди"
+      menuMore: "Показати більше"
+      readMore: "Читати далі"
+      readOtherPosts: "Читати інші пости"
+      newerPosts: "Новіші пости"
+      olderPosts: "Старіші пости"
+      missingContentMessage: "Page not found..."
+      missingBackButtonLabel: "На головну"
+      minuteReadingTime: "хв читання"
+      words: "слів"
+      logo:
+        logoText: "blog.ssh.org.ua"
+        logoHomeLink: "/"
+
+menu:
+  main:
+    - name: "Категорії"
+      url: "/categories/"
+      weight: 20
+    - name: "Теги"
+      url: "/tags/"
+      weight: 30
+
+taxonomies:
+  category: "categories"
+  tag: "tags"
