@@ -21,7 +21,7 @@ languages:
     params:
       languageName: "Ukrainian"
       title: "blog.ssh.org.ua"
-      subtitle: "A simple, retro theme for Hugo"
+      subtitle: "Кому це треба?"
       owner: "Синя Борода"
       keywords: ""
       copyright: "© 2025 Підвал Синьої Бороди"
