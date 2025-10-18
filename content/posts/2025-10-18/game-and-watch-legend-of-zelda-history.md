@@ -1,5 +1,6 @@
 ---
 title: "Історія Game & Watch та еволюція The Legend of Zelda"
+draft: true
 date: 2025-10-18T11:16:00+02:00
 slug: game-and-watch-legend-of-zelda-history
 tags: ["Nintendo", "Game & Watch", "The Legend of Zelda", "ретроспектива", "ігри", "Zelda"]
