@@ -2,7 +2,7 @@
 title: "Історія Game & Watch та еволюція The Legend of Zelda"
 date: 2025-10-18T11:16:00+02:00
 slug: game-and-watch-legend-of-zelda-history
-tags: ["Nintendo", "Game & Watch", "The Legend of Zelda", "ретроспектива", "ігри"]
+tags: ["Nintendo", "Game & Watch", "The Legend of Zelda", "ретроспектива", "ігри", "Zelda"]
 categories: ["Ігрова історія"]
 description: "Від появи Game & Watch до епохальної The Legend of Zelda: A Link to the Past — повна історія розвитку портативних ігор та культової серії."
 ---
