@@ -2,7 +2,7 @@
 title: "Історія створення та еволюція The Legend of Zelda"
 date: 2025-10-17T00:54:00+02:00
 slug: the-legend-of-zelda-history
-tags: ["Nintendo", "відеоігри", "Zelda", "ретрогеймінг", “The Legend of Zelda”]
+tags: ["Nintendo", "відеоігри", "Zelda", "ретрогеймінг", "The Legend of Zelda"]
 categories: ["Ігри"]
 description: "Повна історія створення легендарної серії The Legend of Zelda — від перших аркад до культових ігор, що перевернули уявлення про пригодницькі відеоігри."
 ---
